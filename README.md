@@ -46,8 +46,7 @@ This project aims to answer the following business questions:
 
 Dataset: Customer Personality Analysis
 
-Source: Kaggle: https://www.kaggle.com/datasets/imakash3011/customer
-personality-analysis
+Source: Kaggle: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
 Records: 2,240 customers
 
