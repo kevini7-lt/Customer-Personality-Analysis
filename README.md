@@ -163,7 +163,9 @@ Customer-Personality-Analysis/
 │   ├── spending_distribution.png
 │   ├── spending_by_education_boxplot.png
 │   └── average_spending_by_education.png
+```
 
+---
 
 # Author
 
